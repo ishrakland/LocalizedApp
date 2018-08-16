@@ -1,1 +1,2 @@
 # LocalizedApp
+Localize app Name
